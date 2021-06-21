@@ -8,7 +8,7 @@
 
   gtag('config', 'G-54XD005LSG');
 </script>
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
