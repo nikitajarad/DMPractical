@@ -185,7 +185,7 @@ width:1fr;
     width: 1fr;
     margin:4px;
     text-align: right;
-    background-image: url(sani.png);
+    background-image: url(sani.jpg);
     background-repeat: no-repeat;
     height: 200px;
     text-align: right;
