@@ -267,10 +267,5 @@ body{
 
     </body>
 </html>
-![crowed](https://user-images.githubusercontent.com/86143748/122717049-b3459880-d288-11eb-81e1-634bae211ef1.jpg)
-![home](https://user-images.githubusercontent.com/86143748/122717065-b8a2e300-d288-11eb-9b88-598430b23e0c.jpg)
-![hand](https://user-images.githubusercontent.com/86143748/122717073-ba6ca680-d288-11eb-81e4-67a0cbaf9796.gif)
-![wash](https://user-images.githubusercontent.com/86143748/122717260-fc95e800-d288-11eb-8b46-c73558602b8e.jpg)
-![touch](https://user-images.githubusercontent.com/86143748/122717264-fe5fab80-d288-11eb-98d5-4e033673086b.jpg)
-![mask](https://user-images.githubusercontent.com/86143748/122717276-01f33280-d289-11eb-9049-ab2aa493beb6.jpg)
+
 
